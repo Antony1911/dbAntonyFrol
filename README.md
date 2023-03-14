@@ -1,2 +1,0 @@
-# dbAntonyFrol
-data base learning
