@@ -1,2 +1,5 @@
 [lesson 01]
 https://docs.google.com/spreadsheets/d/19qoSf94cweUftgkEWtj3ymXKF6Jj8SHC2lUO-acBB-k/edit?usp=sharing
+
+[lesson02]
+https://docs.google.com/spreadsheets/d/130InExlyqmkQ8FhPiDKc-fIUF4vum0mxboVZbKpjE08/edit?usp=sharing
